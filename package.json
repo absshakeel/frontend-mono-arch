@@ -1,11 +1,16 @@
 {
   "name": "frontend-arch",
   "version": "1.0.0",
-  "private": true,
+  "private": "true",
+  "packageManager": "pnpm@10.11.0",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "lerna run dev --parallel",
+    "build": "lerna run build",
+    "test": "lerna run test",
+    "lint": "lerna run lint"
   },
- 
   "license": "ISC",
-  
+  "devDependencies": {
+    "lerna": "^10.0.1"
+  }
 }
