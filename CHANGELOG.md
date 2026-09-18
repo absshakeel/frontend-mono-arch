@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/absshakeel/frontend-mono-arch/compare/v1.0.1...v1.0.2) (2026-09-18)
+
+
+### Bug Fixes
+
+* cloundfront distribution id ([9092c9a](https://github.com/absshakeel/frontend-mono-arch/commit/9092c9a6b8a5ee35445b81f370fa46c486237983))
+
 ## [1.0.1](https://github.com/absshakeel/frontend-mono-arch/compare/v1.0.0...v1.0.1) (2026-09-18)
 
 
