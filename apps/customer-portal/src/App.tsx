@@ -7,6 +7,9 @@ const App = () => {
       <div>Complete frontend development react monorepo</div>
       <Button onClick={()=> {alert(formatCurrency(112233))}}/>
         <h3>New Heading feature add on b feature/new</h3>
+        <p>Paragraph added
+    
+        </p>
 
     </>
     
