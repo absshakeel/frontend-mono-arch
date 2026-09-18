@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/absshakeel/frontend-mono-arch/compare/v1.0.0...v1.0.1) (2026-09-18)
+
+
+### Bug Fixes
+
+* aws secrent access key ([bc4694b](https://github.com/absshakeel/frontend-mono-arch/commit/bc4694b87efaad763c1c73f1517caeebfd8e843e))
+
 # 1.0.0 (2026-09-18)
 
 
